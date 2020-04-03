@@ -8,4 +8,5 @@ for letter_inp in inp:
     for letter_vowels in vowels:
 # compares letter in vowels with letter in input
         if letter_inp == letter_vowels:
+# prints letter only if it is a vowel
             print(letter_vowels)
