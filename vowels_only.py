@@ -7,4 +7,4 @@ for letter in inp:
 # checks if each letter in input is in vowels
     if letter in vowels:
 # prints letter only if it is a vowel
-            print(letter)
+        print(letter)
